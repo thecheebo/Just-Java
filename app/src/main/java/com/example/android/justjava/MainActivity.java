@@ -32,7 +32,7 @@ import java.text.NumberFormat;
  */
 public class MainActivity extends AppCompatActivity {
 
-    int quantity = 2;
+    int quantity = 1;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
